@@ -1,4 +1,4 @@
 data test;
     set sashelp.class;
-    where age >13;
+    where age >12;
 run;
